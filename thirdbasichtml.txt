@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>East vs West 2.</h1>
+<h1>East vs West.</h1>
 <img src="trumpvskim3.jpg" alt="">
 
-<p>You would know about shooting upwards Mr.Kim.</p>
+<p>Gonna shoot high as my networth.</p>
 
 </body>
 </html>
